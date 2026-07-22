@@ -1,0 +1,6 @@
+kali linux is an operating system designed for digital forensics and penetration testing. 
+1. It is maintained and funded by offensive security.
+2. kali Linux is made with pentesters and pentesting in mind.
+3. Users can customized kali linux to suit their needs.
+4.. Multi- language support.
+5. open source Git tree.
